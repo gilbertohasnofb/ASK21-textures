@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="-189.66786"
-     inkscape:cy="103.78937"
+     inkscape:zoom="1"
+     inkscape:cx="624.75167"
+     inkscape:cy="300.49063"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g6527"
      showgrid="false"
      units="px"
      inkscape:window-width="1600"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -710,11 +710,11 @@
        id="g6527"
        transform="matrix(1.1369462,0,0,1.1369462,-27.280714,126.70478)">
       <circle
-         style="display:none;opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.14758557;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.23271403;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle_red2"
          cx="202.47023"
          cy="89.702942"
-         r="57.773201"
+         r="58.759262"
          inkscape:label="#circle4723" />
       <g
          transform="matrix(0.62291369,0,0,0.62291369,116.10845,-12.825494)"
@@ -1965,6 +1965,20 @@
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f7f7f7;fill-opacity:1;stroke-width:0.21096854px">1050</tspan></text>
         </g>
       </g>
+      <circle
+         inkscape:label="#circle4723"
+         r="44.209766"
+         cy="89.702942"
+         cx="202.47023"
+         id="circle4783"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.22969911;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.22732098;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4785"
+         width="45.949802"
+         height="10.935545"
+         x="179.46951"
+         y="51.986721" />
     </g>
     <rect
        y="161.46516"
@@ -2004,5 +2018,26 @@
          d="m -62.627933,253.40833 -6.641647,-6.36102 11.272094,-3.60146"
          style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
+    <rect
+       style="opacity:1;fill:#ff1425;fill-opacity:1;stroke:none;stroke-width:0.1546368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4787"
+       width="6.5069513"
+       height="6.4632692"
+       x="193.0645"
+       y="179.31451" />
+    <rect
+       y="179.31451"
+       x="199.57146"
+       height="6.4632692"
+       width="6.5069513"
+       id="rect4795"
+       style="opacity:1;fill:#fff0f1;fill-opacity:1;stroke:none;stroke-width:0.1546368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#222222;fill-opacity:1;stroke:none;stroke-width:0.1546368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4797"
+       width="6.5069513"
+       height="6.4632692"
+       x="206.07841"
+       y="179.31451" />
   </g>
 </svg>
